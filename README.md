@@ -10,4 +10,4 @@ TextRank extractive summarization Python implementation on reddit [r/tifu](https
 - tifu-dataset-snippet.csv - A small subset of the original dataset for tutorial purposes
 - TextRankOutputSample
   -  Contains sample output of TextRank tutorial
-
+- PostStructureTags.xlsx - Tagged structure of 30 posts (see report for more information)
