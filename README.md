@@ -9,5 +9,5 @@ TextRank extractive summarization Python implementation on reddit [r/tifu](https
 - TextRank.ipynb - A notebook which also functions as a-z tutorial for the code in this GitHub repository
 - tifu-dataset-snippet.csv - A small subset of the original dataset for tutorial purposes
 - TextRankOutputSample
-  -  Contains sample output of TextRank tutorial
+  -  Contains sample output of TextRank tutorial - Also contains 30 examples of generated summaries
 - PostStructureTags.xlsx - Tagged structure of 30 posts (see report for more information)
