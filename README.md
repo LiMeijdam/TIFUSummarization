@@ -1,5 +1,5 @@
 # TIFU_Summarization
-TextRank extractive summarization Python implementation on reddit [r/tifu](https://www.reddit.com/r/tifu/) posts. This GitHub was created by Lieuwe Meijdam for a course at the Radboud University Nijmegen and is solely meant for educational purposes. For questions please contact me through my student-email address. 
+TextRank extractive summarization Python implementation on reddit [r/tifu](https://www.reddit.com/r/tifu/) posts. This GitHub was created by student S1047496 for a course at the Radboud University Nijmegen and is solely meant for educational purposes. For questions please contact me through my student-email address. 
 
 
 ## Structures and description
